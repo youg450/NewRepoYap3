@@ -1,0 +1,14 @@
+C:\Users\temaf\source\repos\Практики по ЯП\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.exe.config
+C:\Users\temaf\source\repos\Практики по ЯП\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.exe
+C:\Users\temaf\source\repos\Практики по ЯП\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.pdb
+C:\Users\temaf\source\repos\Практики по ЯП\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.csprojAssemblyReference.cache
+C:\Users\temaf\source\repos\Практики по ЯП\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.csproj.CoreCompileInputs.cache
+C:\Users\temaf\source\repos\Практики по ЯП\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.exe
+C:\Users\temaf\source\repos\Практики по ЯП\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.pdb
+C:\Users\temaf\source\repos\NewRepo2\practica 2\Practicum 1\Exercise 2\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.exe.config
+C:\Users\temaf\source\repos\NewRepo2\practica 2\Practicum 1\Exercise 2\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.exe
+C:\Users\temaf\source\repos\NewRepo2\practica 2\Practicum 1\Exercise 2\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.pdb
+C:\Users\temaf\source\repos\NewRepo2\practica 2\Practicum 1\Exercise 2\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.csprojAssemblyReference.cache
+C:\Users\temaf\source\repos\NewRepo2\practica 2\Practicum 1\Exercise 2\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.csproj.CoreCompileInputs.cache
+C:\Users\temaf\source\repos\NewRepo2\practica 2\Practicum 1\Exercise 2\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.exe
+C:\Users\temaf\source\repos\NewRepo2\practica 2\Practicum 1\Exercise 2\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.pdb

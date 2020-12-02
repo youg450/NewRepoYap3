@@ -1,0 +1,7 @@
+C:\Users\temaf\source\repos\Практики по ЯП\CompressionDemo\CompressionDemo\bin\Debug\CompressionDemo.exe.config
+C:\Users\temaf\source\repos\Практики по ЯП\CompressionDemo\CompressionDemo\bin\Debug\CompressionDemo.exe
+C:\Users\temaf\source\repos\Практики по ЯП\CompressionDemo\CompressionDemo\bin\Debug\CompressionDemo.pdb
+C:\Users\temaf\source\repos\Практики по ЯП\CompressionDemo\CompressionDemo\obj\Debug\CompressionDemo.csprojAssemblyReference.cache
+C:\Users\temaf\source\repos\Практики по ЯП\CompressionDemo\CompressionDemo\obj\Debug\CompressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\temaf\source\repos\Практики по ЯП\CompressionDemo\CompressionDemo\obj\Debug\CompressionDemo.exe
+C:\Users\temaf\source\repos\Практики по ЯП\CompressionDemo\CompressionDemo\obj\Debug\CompressionDemo.pdb

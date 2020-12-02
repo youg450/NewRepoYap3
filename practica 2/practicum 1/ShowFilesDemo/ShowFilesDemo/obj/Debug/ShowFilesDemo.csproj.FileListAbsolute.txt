@@ -1,0 +1,7 @@
+C:\Users\temaf\source\repos\Практики по ЯП\ShowFilesDemo\ShowFilesDemo\obj\Debug\ShowFilesDemo.csprojAssemblyReference.cache
+C:\Users\temaf\source\repos\Практики по ЯП\ShowFilesDemo\ShowFilesDemo\obj\Debug\ShowFilesDemo.csproj.CoreCompileInputs.cache
+C:\Users\temaf\source\repos\Практики по ЯП\ShowFilesDemo\ShowFilesDemo\bin\Debug\ShowFilesDemo.exe.config
+C:\Users\temaf\source\repos\Практики по ЯП\ShowFilesDemo\ShowFilesDemo\bin\Debug\ShowFilesDemo.exe
+C:\Users\temaf\source\repos\Практики по ЯП\ShowFilesDemo\ShowFilesDemo\bin\Debug\ShowFilesDemo.pdb
+C:\Users\temaf\source\repos\Практики по ЯП\ShowFilesDemo\ShowFilesDemo\obj\Debug\ShowFilesDemo.exe
+C:\Users\temaf\source\repos\Практики по ЯП\ShowFilesDemo\ShowFilesDemo\obj\Debug\ShowFilesDemo.pdb
